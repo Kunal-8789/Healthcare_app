@@ -1,16 +1,14 @@
 # Heathcare_app
+UNKNOWN STARS
+Team Leader- Anubhav Kumar Rao
+2nd memeber- Kunal Kaushik!
 
-A new Flutter application.
+Health Care and Fitness
 
-## Getting Started
+Basic idea of app: Our app calculates BMI gives valuable feedback acoording to given data by user. It also has yoga postures for fitness enthusiasts.
 
-This project is a starting point for a Flutter application.
+![Screenshot (236)](https://user-images.githubusercontent.com/76679262/114061663-4e4aeb00-98b4-11eb-9d23-c1c4bab73264.png)
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot (237)](https://user-images.githubusercontent.com/76679262/114061629-4723dd00-98b4-11eb-80a3-014dd9a48660.png)
+![Screenshot (238)](https://user-images.githubusercontent.com/76679262/114061695-573bbc80-98b4-11eb-8e4b-3b9dfe98f3aa.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
